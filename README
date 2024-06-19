@@ -1,0 +1,13 @@
+
+This programming assignment is based on Connect 4 game. 
+The User plays against Computer to connect 4 pieces horizontally, vertically or diagonally to win the game.
+
+The program uses a number of helper functions, including printBoard, which prints the current state of the game board; userMove, which prompts the user for their next move and ensures that it is a valid move; makeMove, which places a piece on the board; computerMove, which determines the computer's move using the minimax algorithm; winningMove, which checks if the most recent move resulted in a win for the current player; and heurFunction, which assigns a heuristic value to a given set of pieces on the board.
+
+Player's piece - O
+Computer's piece - X
+
+Use "make all" to complie 
+Use "./connect4" to start
+
+
