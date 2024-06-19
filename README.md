@@ -11,4 +11,4 @@ Use "./connect4" to start
 
 ![Screenshot of the application](image/game.visual.PNG)
 
-![Screenshot of the application2](image/game.visual.PNG)
+![Screenshot of the application2](image/game.visual2.PNG)
